@@ -39,26 +39,29 @@
 
 5. [**Architectural Considerations**](./5.architectural-considerations.md)
 
-   5.1. Scalability
+   5.1. [Scalability](./5.architectural-considerations.md#51-scalability)
 
-   5.2. Latency
+   5.2. [Latency](./5.architectural-considerations.md#52-latency)
 
-   5.3. Resiliancy / Fault Tolerance 
+   5.3. [Resiliancy](./5.architectural-considerations.md#53-resiliancy)
 
-   5.4. Data Integrity
+   5.4. [Data Integrity](./5.architectural-considerations.md#54-data-integrity)
 
-   5.5. Security 
+   5.5. [Security](./5.architectural-considerations.md#55-security)
 
+   5.6. [Monitoring and Alerting](./5.architectural-considerations.md#56-monitoring-and-alerting)
 
 6. [**Technologies and Tools**](./6.technologies-and-tools.md)
 
-   6.1 Kafka
+   6.1 [Apache Kafka](./6.technologies-and-tools.md#61-apache-kafka)
 
-   6.2 Tile38
+   6.2 [Tile38](./6.technologies-and-tools.md#62-tile38)
 
-   6.3 Postgres / TimescaleDB
+   6.3 [Postgres / TimescaleDB](./6.technologies-and-tools.md#63-postgres--timescaledb)
 
-   6.3 Kubenetes 
+   6.3 [Kubenetes](./6.technologies-and-tools.md#63-kubenetes)
+
+   6.4 [Amazon Web Services (AWS)](./6.technologies-and-tools.md#64-amazon-web-services-aws)
 
 
 7. [**Milestones**](./7.milestones.md)
