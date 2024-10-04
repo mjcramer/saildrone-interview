@@ -15,29 +15,34 @@
 
 2. [System Design](./2.system-design.md)
 
+  2.1. [`Kafka` for Message Queue / Data Pipeline](./2.system-design.md#21-message-queue--data-pipeline)
+
+  2.2. [`Kubernetes` for Container Orchestration](./2.system-design.md#22-kubernetes-for-container-orchestration)
+
+  2.3. [`Tile38` for Real-Time Geospatial Querying](./2.system-design.md#23-tile38-for-real-time-geospatial-querying)
+
+  2.4. [`Postgres` with `TimescaleDB` extension for Geospatial Time Series Data Storage](./2.system-design.md#24-postgres-with-timescaledb-extension-for-geospatial-time-series-data-storage)
 
 
-3. [**Feature 1: Live View of Flights**](./3.feature-1-live-flight-view.md)
+3. [Feature 1: Live View of Flights](./3.feature-1-live-flight-view.md)
 
-   3.1. Data Pipeline
+  3.1. [Active Flight Data Updater](./3.feature-1-live-flight-view.md#31-active-flight-data-update)
 
-   3.2. Data Model
+  3.2. [Active Flight API](./3.feature-1-live-flight-view.md#32-active-flight-api)
 
-   3.3. Storage Solution
+  3.3. [Cleaner](./3.feature-1-live-flight-view.md#33-cleaner)
 
-   3.4. Query and API Design
 
-4. [**Feature 2: Time Series Flight Data**](./4.feature-2-time-series-flight-data.md)
+4. [Feature 2: Time Series Flight Data](./4.feature-2-time-series-flight-data.md)
 
-   4.1. Data Pipeline
+   ## 4.1. [Historical Flight Data Aggregator](./4.feature-2-time-series-flight-data.md#41-historical-flight-data-aggregator)
 
-   4.2. Data Model
+   ## 4.2. [Historical Flight Data API](./4.feature-2-time-series-flight-data.md#42-historical-flight-data-api)
 
-   4.3. Storage Solution
+   ## 4.3. [Cleaner](./4.feature-2-time-series-flight-data.md#43-cleaner)
 
-   4.4. Query and API Design
 
-5. [**Architectural Considerations**](./5.architectural-considerations.md)
+5. [Architectural Considerations](./5.architectural-considerations.md)
 
    5.1. [Scalability](./5.architectural-considerations.md#51-scalability)
 
@@ -51,7 +56,7 @@
 
    5.6. [Monitoring and Alerting](./5.architectural-considerations.md#56-monitoring-and-alerting)
 
-6. [**Technologies and Tools**](./6.technologies-and-tools.md)
+6. [Technologies and Tools](./6.technologies-and-tools.md)
 
    6.1 [Apache Kafka](./6.technologies-and-tools.md#61-apache-kafka)
 
@@ -64,7 +69,7 @@
    6.4 [Amazon Web Services (AWS)](./6.technologies-and-tools.md#64-amazon-web-services-aws)
 
 
-7. [**Milestones**](./7.milestones.md)
+7. [Milestones](./7.milestones.md)
 
    7.1 Infrastructure
       a. Data Pipeline
