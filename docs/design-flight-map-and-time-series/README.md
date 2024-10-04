@@ -27,7 +27,7 @@
 
    3.4. Query and API Design
 
-4. [**Feature 2: Time Series Flight Data**](./4.design-flight-map-and-time-series/feature-2-time-series-flight-data.md)
+4. [**Feature 2: Time Series Flight Data**](./4.feature-2-time-series-flight-data.md)
 
    4.1. Data Pipeline
 
@@ -37,7 +37,7 @@
 
    4.4. Query and API Design
 
-5. [**Architectural Considerations**](./design-flight-map-and-time-series/5.architectural-considerations.md)
+5. [**Architectural Considerations**](./5.architectural-considerations.md)
 
    5.1. Scalability
 
@@ -50,7 +50,7 @@
    5.5. Security 
 
 
-6. [**Technologies and Tools**](./design-flight-map-and-time-series/6.technologies-and-tools.md)
+6. [**Technologies and Tools**](./6.technologies-and-tools.md)
 
    6.1 Kafka
 
@@ -61,7 +61,7 @@
    6.3 Kubenetes 
 
 
-7. [**Milestones**](./design-flight-map-and-time-series/7.milestones.md)
+7. [**Milestones**](./7.milestones.md)
 
    7.1 Infrastructure
       a. Data Pipeline
