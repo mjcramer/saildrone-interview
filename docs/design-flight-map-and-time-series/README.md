@@ -35,11 +35,13 @@
 
 4. [Feature 2: Time Series Flight Data](./4.feature-2-time-series-flight-data.md)
 
-   ## 4.1. [Historical Flight Data Aggregator](./4.feature-2-time-series-flight-data.md#41-historical-flight-data-aggregator)
+   ## 4.1. [Data Model](./4.feature-2-time-series-flight-data.md#41-data-model)
 
-   ## 4.2. [Historical Flight Data API](./4.feature-2-time-series-flight-data.md#42-historical-flight-data-api)
+   ## 4.2. [Historical Flight Data Aggregator](./4.feature-2-time-series-flight-data.md#42-historical-flight-data-aggregator)
 
-   ## 4.3. [Cleaner](./4.feature-2-time-series-flight-data.md#43-cleaner)
+   ## 4.3. [Historical Flight Data API](./4.feature-2-time-series-flight-data.md#43-historical-flight-data-api)
+
+   ## 4.4. [Cleaner](./4.feature-2-time-series-flight-data.md#44-cleaner)
 
 
 5. [Architectural Considerations](./5.architectural-considerations.md)
