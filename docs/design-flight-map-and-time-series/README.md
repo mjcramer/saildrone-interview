@@ -23,7 +23,6 @@
 
   2.4. [`Postgres` with `TimescaleDB` extension for Geospatial Time Series Data Storage](./2.system-design.md#24-postgres-with-timescaledb-extension-for-geospatial-time-series-data-storage)
 
-
 3. [Feature 1: Live View of Flights](./3.feature-1-live-flight-view.md)
 
   3.1. [Active Flight Data Updater](./3.feature-1-live-flight-view.md#31-active-flight-data-update)
@@ -57,31 +56,4 @@
    5.5. [Security](./5.architectural-considerations.md#55-security)
 
    5.6. [Monitoring and Alerting](./5.architectural-considerations.md#56-monitoring-and-alerting)
-
-6. [Technologies and Tools](./6.technologies-and-tools.md)
-
-   6.1 [Apache Kafka](./6.technologies-and-tools.md#61-apache-kafka)
-
-   6.2 [Tile38](./6.technologies-and-tools.md#62-tile38)
-
-   6.3 [Postgres / TimescaleDB](./6.technologies-and-tools.md#63-postgres--timescaledb)
-
-   6.3 [Kubenetes](./6.technologies-and-tools.md#63-kubenetes)
-
-   6.4 [Amazon Web Services (AWS)](./6.technologies-and-tools.md#64-amazon-web-services-aws)
-
-
-7. [Milestones](./7.milestones.md)
-
-   7.1 Infrastructure
-      a. Data Pipeline
-      b. Datbases
-      c. Clusters 
-
-   7.2 Streaming Agents
-
-   7.3 API Agents 
-
-   7.4 Feature 1 Complete
-
-   7.5 Feature 2 Complete  
+   
